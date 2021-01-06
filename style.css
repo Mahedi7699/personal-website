@@ -60,15 +60,18 @@ section{
     height: 500px;
 }
 .special-part{
-    width: 28%;
+    width: 29%;
     float: left;
-    margin-left: 3%;
+    margin-left: 2%;
     box-shadow: 2px 2px 30px gray;
     border-radius: 10px;
-    height: 80%;
+    height: 450px;
     padding: 10px;
 }
-.special-part img{
-    height: 100%;
-}
- 
+ img{
+     width: 100%;
+ }
+.main-project{
+     display: block;
+     clear: both;
+ }
