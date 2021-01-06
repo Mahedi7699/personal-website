@@ -21,7 +21,7 @@ p{
 .placement{
     display: inline-block;
     padding: 5px;
-    font-size: 12px;
+    font-size: 14px;
 }
 .button-decoration{
     text-decoration: none;
@@ -74,4 +74,80 @@ section{
 .main-project{
      display: block;
      clear: both;
+     margin-top: 250px;
  }
+.bottom-setup{
+    margin-bottom: 75px;
+}
+
+
+.final-project{
+    height: 100px;
+}
+.div-inquary{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.new-inquery{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 200px;
+}
+.img-class{
+    display: block;
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 230px;
+}
+.header-three{
+    color: white;
+    float: left;
+    font-size: 40px;
+    padding-top: 38px;
+    padding-left: 20px;
+    letter-spacing: -2px;
+}
+.lets-chat{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(45deg, #3D95FD, #11E3CD);
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-right: 70px;
+    margin-top: 90px;
+    font-size: 25
+}
+.last-part{
+    margin: 15%;
+}
+.last-sh span{
+    margin-left: 39%;
+    color: rgb(51, 61, 51);
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.last-sh h3{
+    font-size: 36px;
+    margin-left: 32%;
+    margin-top: 2%;
+}
+.last-icon{
+    margin-left: 34%;
+    margin-top: 0;
+}
+.last-icon .icon-2{
+    width: 8%;
+    float: left;
+    align-items: center;
+    padding: 0 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 3%;
+}
