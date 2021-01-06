@@ -8,11 +8,29 @@ h1{
 }
 h2{
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
 }
 p{
     color: dimgray;
     text-align: justify;
+}
+#menu-add{
+    text-align: right; 
+    margin-right: 7%;
+}
+.placement{
+    display: inline-block;
+    padding: 5px;
+    font-size: 12px;
+}
+.button-decoration{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato ); 
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+    color: white;
+    margin-top: 2%;
 }
 .half-width{
     width: 40%;
@@ -40,5 +58,17 @@ p{
 }
 section{
     height: 500px;
+}
+.special-part{
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+    box-shadow: 2px 2px 30px gray;
+    border-radius: 10px;
+    height: 80%;
+    padding: 10px;
+}
+.special-part img{
+    height: 100%;
 }
  
